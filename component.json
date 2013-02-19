@@ -3,6 +3,7 @@
   "version": "1.3.5-dev",
   "main": [ "lib/dropzone.js", "downloads/css/basic.css" ],
   "dependencies": {
-    "jquery": "*"
+    "jquery": "*",
+    "emitter": "git://github.com/component/emitter.git#0.0.6"
   }
 }
